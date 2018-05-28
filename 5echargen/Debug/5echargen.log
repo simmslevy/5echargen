@@ -1,0 +1,6 @@
+﻿  5echargen.cpp
+c:\users\j-kriegz\desktop\code\rpg\5echargen\5echargen\character.h(69): warning C4091: 'static ': ignored on left of 'Character::Races' when no variable is declared
+  Character.cpp
+c:\users\j-kriegz\desktop\code\rpg\5echargen\5echargen\character.h(69): warning C4091: 'static ': ignored on left of 'Character::Races' when no variable is declared
+  Generating Code...
+  5echargen.vcxproj -> C:\Users\J-Kriegz\Desktop\Code\RPG\5echargen\Debug\5echargen.exe
